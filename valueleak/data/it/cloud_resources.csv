@@ -1,0 +1,6 @@
+resource_id,resource_name,resource_type,environment,region,owner,criticality,status
+VM-001,VM-PROD-API,VirtualMachine,production,swedencentral,PlatformTeam,high,running
+VM-002,VM-TEST-03,VirtualMachine,test,swedencentral,DevTeam,low,running
+VM-003,VM-BACKUP-01,VirtualMachine,disaster_recovery,swedencentral,PlatformTeam,critical,running
+VM-004,VM-DEV-02,VirtualMachine,development,swedencentral,DevTeam,medium,running
+DB-001,DB-PROD-01,Database,production,swedencentral,DataTeam,critical,running

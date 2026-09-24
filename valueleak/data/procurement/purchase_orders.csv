@@ -1,0 +1,7 @@
+po_id,supplier_id,item_id,order_date,quantity,unit_price,currency,status,expedited_delivery
+PO-001,SUP-001,COMP-A,2026-01-15,2000,12.00,EUR,received,false
+PO-002,SUP-001,COMP-A,2026-03-12,2000,12.00,EUR,received,false
+PO-003,SUP-001,COMP-A,2026-05-20,2000,12.00,EUR,received,false
+PO-004,SUP-002,COMP-B,2026-02-10,500,25.00,EUR,received,false
+PO-005,SUP-002,COMP-B,2026-06-08,700,25.00,EUR,received,true
+PO-006,SUP-003,COMP-C,2026-04-04,1000,8.50,EUR,received,false

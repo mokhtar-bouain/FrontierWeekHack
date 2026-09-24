@@ -1,0 +1,7 @@
+period,production_line,product_id,units_produced,production_mode
+2026-01,LINE-01,PRODUCT-A,1000,standard
+2026-02,LINE-01,PRODUCT-A,1000,standard
+2026-03,LINE-01,PRODUCT-A,1000,standard
+2026-04,LINE-01,PRODUCT-A,1000,standard
+2026-05,LINE-01,PRODUCT-B,1000,certification
+2026-06,LINE-01,PRODUCT-A,1000,standard
