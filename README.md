@@ -32,6 +32,8 @@ All paths teach the same Foundry concepts — pick the one that resonates with y
 | 🏭 **Factory** | Detect machine anomalies and diagnose faults at TireForge Industries | [Factory Lab](./factory/README.md) |
 | 📋 **Claims** | Triage incoming claims and recommend actions at ClaimSight Insurance | [Claims Lab](./claims/README.md) |
 | 📞 **Call Center** | Classify call intents and advise resolutions at NovaTel Communications | [Call Center Lab](./callcenter/README.md) |
+| 💰 **ValueLeak AI** | Turn Hidden Waste into Measurable Value. | [valueleak Lab](./valueleak/README.md) |
+
 
 All scenarios follow the same 5-challenge structure:
 
